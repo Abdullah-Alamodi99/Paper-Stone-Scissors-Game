@@ -1,0 +1,3 @@
+﻿  Paper-Stone-Scissors Game.cpp
+C:\My Projects\Console Applications\Paper-Stone-Scissors Game\Paper-Stone-Scissors Game\Paper-Stone-Scissors Game.cpp(123): warning C4715: 'GameRolls': not all control paths return a value
+  Paper-Stone-Scissors Game.vcxproj -> C:\My Projects\Console Applications\Paper-Stone-Scissors Game\Debug\Paper-Stone-Scissors Game.exe
